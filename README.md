@@ -9,6 +9,16 @@ MuseScore is an open source and free music notation software. For support, contr
 ## check explications.pdf   
 Check this file to have more explanations on Piano tutor installation   
 
+## plugins
+Les plugins se trouvent dans le répertoire ../share/plugins  
+
+## Piano Tutor  
+Les fichiers correspondant à Piano Tutor se trouvent dans le répertoire ../mscore   
+Fichiers identifiés :   
+- pianotutorpanel.h  
+- pianotutorpanel.cpp  
+- pianotutorpanel.ui  
+
 ## Features
 
 - WYSIWYG design, notes are entered on a "virtual notepaper"
