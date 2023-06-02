@@ -6,10 +6,10 @@ Music notation and composition software
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 MuseScore is an open source and free music notation software. For support, contribution, and bug reports visit MuseScore.org. Fork and make pull requests!
-## check explications.pdf   
+## Check explications.pdf   
 Check this file to have more explanations on Piano tutor installation   
 
-## plugins
+## Plugins
 Les plugins se trouvent dans le répertoire ../share/plugins  
 
 ## Piano Tutor  
