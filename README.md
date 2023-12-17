@@ -134,6 +134,12 @@ To run the debug version, type:
 
     ./build.debug/mscore/mscore
 
+
+### Autonomous Releases on Windows and linux : Musescore + Pianotutor  
+https://github.com/tomcucinotta/MuseScore/releases  
+You have musescore build with PianoTutor on this page.   
+
+
 ### Testing
 See [mtest/README.md](/mtest/README.md) or [the developer handbook](https://musescore.org/handbook/developers-handbook/finding-your-way-around/automated-tests) for instructions on how to run the test suite.
 
